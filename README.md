@@ -1,2 +1,2 @@
 # hello-world
-Obligatory hello world example
+The obligatory hello world example. The code itself will probably never make it up here.
